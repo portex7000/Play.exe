@@ -1,0 +1,12 @@
+#include <windows.h>
+
+101 DIALOG DISCARDABLE  0, 0, 150, 75
+STYLE DS_CENTER | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Installer"
+FONT 8, "MS Sans Serif"
+BEGIN
+    DEFPUSHBUTTON   "Install", 1, 10, 50, 50, 14
+    PUSHBUTTON      "Exit", 2, 90, 50, 50, 14
+END
+
+102 RCDATA "play.exe"
