@@ -1,3 +1,5 @@
+<!-- Hi this file apparently has syntax error at line 1 when compiling, please fix (pull request) -->
+
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
     <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
